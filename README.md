@@ -44,13 +44,24 @@ Despite initial promising results in feature extraction, the limitations of ViT 
 
 After extensive training and evaluation, the model shows promising, yet limited success in segmenting color maps. The unique challenges of color-based segmentation indicate that while ViT and SegFormer are powerful, additional enhancements may be needed to improve their effectiveness for color-coded data in autonomous driving. The project results underscore the importance of custom loss functions and attention mechanisms but also suggest further research opportunities for optimizing these architectures.
 
-## Example Results
+### Example Results
 
-Example visualizations and metrics include:
+Below are some example results from our model:
 
-- **Segmentation Outputs**: Sample results showcasing segmented images with attention to detail in lane marking and obstacle detection.
-- **Training Metrics**: Training and validation loss curves for each custom loss component, illustrating convergence and model stability.
-- **Quantitative Evaluation**: Dice, IoU, and accuracy scores on validation and test sets.
+![Example 1](imagesRaW/1.png)
+*Segmentation output showcasing lane and obstacle detection in autonomous driving scenarios.*
+
+![Example 2](imagesRaW/2.png)
+*Detailed view of the model’s boundary detection capabilities on color-coded maps.*
+
+![Example 3](imagesRaW/3.png)
+*Demonstrating feature extraction effectiveness with multi-scale fusion on autonomous driving data.*
+
+![Example 4](imagesRaW/4.png)
+*Illustrating the impact of custom loss functions on the segmentation output.*
+
+![Example 5](imagesRaW/5.png)
+*Final evaluation result displaying the segmentation accuracy and feature clarity in complex scenarios.*
 
 ## Getting Started
 
