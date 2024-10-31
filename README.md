@@ -51,16 +51,10 @@ Below are some example results from our model:
 ![Example 1](ImagesRaw/1.png)
 *Segmentation output showcasing lane and obstacle detection in autonomous driving scenarios.*
 
-![Example 2](ImagesRaw/2.png)
-*Detailed view of the model’s boundary detection capabilities on color-coded maps.*
+![Example 2](ImagesRaw/5.png)
+*Detailed view of the model’s boundary detection capabilities on color-coded maps.
 
-![Example 3](ImagesRaw/3.png)
-*Demonstrating feature extraction effectiveness with multi-scale fusion on autonomous driving data.*
-
-![Example 4](ImagesRaw/4.png)
-*Illustrating the impact of custom loss functions on the segmentation output.*
-
-![Example 5](ImagesRaw/5.png)
+![Example 5](ImagesRaw/2.png)
 *Final evaluation result displaying the segmentation accuracy and feature clarity in complex scenarios.*
 
 ## Getting Started
