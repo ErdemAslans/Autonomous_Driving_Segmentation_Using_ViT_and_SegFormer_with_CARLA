@@ -54,7 +54,8 @@ Below are some example results from our model:
 ![Example 2](ImagesRaw/5.png)
 *Detailed view of the model’s boundary detection capabilities on color-coded maps.
 
-![Example 5](ImagesRaw/2.png)
+![Example 5](ImagesRaw/6.png)
+
 *Final evaluation result displaying the segmentation accuracy and feature clarity in complex scenarios.*
 
 ## Getting Started
