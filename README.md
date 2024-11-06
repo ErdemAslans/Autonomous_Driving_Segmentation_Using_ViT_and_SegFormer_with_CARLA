@@ -50,6 +50,8 @@ Below are some example results from our model:
 
 
 ![Example 2](ImagesRaw/2.png)
+
+
 *Detailed view of the model’s boundary detection capabilities on color-coded maps.
 
 
