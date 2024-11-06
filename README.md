@@ -49,7 +49,7 @@ After extensive training and evaluation, the model shows promising, yet limited 
 Below are some example results from our model:
 
 
-![Example 2](ImagesRaw/5.png)
+![Example 2](ImagesRaw/2.png)
 *Detailed view of the model’s boundary detection capabilities on color-coded maps.
 
 
