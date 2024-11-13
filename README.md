@@ -24,6 +24,8 @@ Despite initial promising results in feature extraction, the limitations of ViT 
 
 - **Multi-Scale Feature Fusion**: Enabling feature aggregation from multiple resolutions to better capture both global context and fine details, essential for accurate segmentation in autonomous driving scenarios.
 
+- **CLARA
+
 ## Model Architecture
 
 ### Vision Transformer (ViT)
