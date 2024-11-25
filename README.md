@@ -5,7 +5,7 @@
 This project presents a deep learning approach to segmentation in autonomous driving scenarios using Vision Transformer (ViT) and SegFormer models. With the inclusion of advanced attention mechanisms, the model is designed to handle complex multi-class segmentation tasks within color map data. This project explores the capabilities and limitations of ViT and SegFormer in extracting meaningful features from color-coded maps, providing insights valuable for the fields of computer vision and autonomous driving.
 
 ## Project Overview
-
+ 
 The primary objective of this project is to evaluate the efficacy of ViT and SegFormer models in segmenting intricate color map data associated with autonomous driving applications. While these models have shown strong performance in other domains like medical imaging, color map segmentation presents unique challenges. The primary focus here is on capturing detailed features necessary for autonomous driving environments, such as lane lines, vehicles, and obstacles.
 
 Despite initial promising results in feature extraction, the limitations of ViT and SegFormer in accurately segmenting color maps highlight the need for further refinement in attention mechanisms and loss functions. This project thus provides a comprehensive study of the challenges and potential solutions for color-based segmentation tasks in real-world applications.
